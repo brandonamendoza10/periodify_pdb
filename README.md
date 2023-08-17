@@ -25,3 +25,4 @@ periodify_pdb was developed by Brandon Mendoza while an intern for The Illinois 
 
 
 ##License 
+MIT License
