@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+periodify_pdb/__init__.py
+periodify_pdb/pdb_operations.py
+periodify_pdb.egg-info/PKG-INFO
+periodify_pdb.egg-info/SOURCES.txt
+periodify_pdb.egg-info/dependency_links.txt
+periodify_pdb.egg-info/requires.txt
+periodify_pdb.egg-info/top_level.txt

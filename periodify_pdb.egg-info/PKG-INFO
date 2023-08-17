@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: periodify-pdb
+Version: 0.1
+Summary: A package that places a pdb structure into a periodic box
+Home-page: https://github.com/brandonamendoza/periodify_pdb
+Download-URL: https://github.com/brandonamendoza/periodify_pdb/archive/v_01.tar.gz
+Author: Brandon Mendoza
+Author-email: brandonamendoza@icloud.com
+License: MIT
+Keywords: pdb,periodic,file prep
+License-File: LICENSE.txt
